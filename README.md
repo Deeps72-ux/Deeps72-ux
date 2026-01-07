@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Deepan
 
-I’m a **Full-Stack Web Developer integrating AI systems**—someone who enjoys building reliable software *and* understanding what’s really happening under the hood. I like clean architectures, well-designed APIs, and AI systems that don’t hallucinate themselves into nonsense.
+I’m a **Full-Stack Web Developer integrating AI systems**—someone who enjoys building reliable software *and* understanding what’s really happening under the hood. I like clean architectures, well-designed APIs, and AI systems that are reliable.
 
 ---
 
